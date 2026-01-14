@@ -37,8 +37,6 @@ Whether it’s school or personal projects, I’m driven by the desire to create
 
 
 ---
-## 🔧 What I Work On
-
 
 ## 🚀 Favorite Projects
 
@@ -101,12 +99,5 @@ Whether it’s school or personal projects, I’m driven by the desire to create
   </tr>
 </table>
 
-## 📫 Get in Touch
 
-- **Email:** cody.carter897@gmail.com  
-- **LinkedIn:** *(add your LinkedIn URL here)*  
-
----
-
-⚡ *Fun fact:* I trust oscilloscopes more than `printf` debugging.
 
