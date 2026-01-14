@@ -1,14 +1,15 @@
 # Hi, I’m Cody 👋
 
-![C](https://img.shields.io/badge/C-Embedded-blue?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-Firmware-blue?logo=c%2B%2B&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-Embedded-red?logo=espressif&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-Microcontrollers-blue?logo=stmicroelectronics&logoColor=white)
-![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-darkgreen)
+I’m a **Computer Engineering student at Louisiana State University** and an **embedded / firmware engineer** who enjoys building hardware that exists outside the screen — from low-level firmware and communication protocols to analog and mixed-signal circuit design.
 
-I’m a **computer engineering student and embedded / firmware engineer** who enjoys building hardware that exists outside the screen — from low-level firmware and communication protocols to analog and mixed-signal circuit design.
+My interest in engineering started early through hands-on projects with my dad, where learning to solder and fix real hardware sparked a lasting curiosity for electronics. Since then, I’ve been driven to explore how software and hardware interact, often teaching myself through experimentation, documentation, and problem-solving.
 
-I’m especially interested in **embedded systems, hardware–software integration, and system-level design**, and I enjoy working close to the metal where debugging involves oscilloscopes as much as code.
+I currently work with **LSU ITS Desktop Operations**, collaborating with IT professionals to troubleshoot systems across campus and mentor other student workers. This role has strengthened my technical foundation in PC diagnostics, networking, and system-level thinking, while also developing strong communication skills through direct user support.
+
+Outside of academics and work, I combine my passion for **music and engineering** by designing audio hardware and embedded systems. My projects include CNC-designed speaker systems optimized for high-fidelity audio and re-engineered analog guitar pedals that improve on classic circuit designs.
+
+I’m motivated by building practical technology that solves real problems, and I’m always looking to improve my skills through challenging projects. If you’re interested in collaborating or talking embedded systems, hardware design, or audio tech — let’s connect.
+
 
 ---
 
@@ -44,7 +45,7 @@ I’m continuously learning how to design **robust, scalable embedded systems** 
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Favorite Projects
 
 <table>
   <tr>
