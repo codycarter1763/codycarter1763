@@ -1,6 +1,6 @@
 # Hi, I’m Cody 👋
 
-I’m a **Computer Engineering student at Louisiana State University** with a strong focus on embedded systems, microprocessors, and hardware logic design. I enjoy building hardware that lives in the real world — where firmware, electronics, and system-level debugging all meet.
+I’m a **Computer Engineering student at Louisiana State University** with a strong focus on embedded systems, microprocessors, and hardware logic design.
 
 I work primarily in C/C++ on ARM-based microcontrollers including STM32 and ESP32, developing firmware that interfaces with custom hardware, communication protocols, and mixed-signal circuits. My projects often involve PCB design, hardware simulation, validating behavior using test equipment, and custom fabrication.
 
@@ -8,39 +8,37 @@ Outside of school and work, I combine my interest in music and engineering by de
 
 Whether it’s school or personal projects, I’m driven by the desire to create technology that makes a difference and improve my skills. If you’re interested in collaborating or discussing anything further, lets connect to talk about it.
 
----
 
+
+<p align="left">
+  <!-- YouTube Subscribe -->
+  <a href="https://www.youtube.com/channel/UCh4SQ9e0h5S0uHNbOwGiOBw?sub_confirmation=1">
+    <img 
+      alt="YouTube subscribers" 
+      title="Subscribe to my YouTube channel" 
+      src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCh4SQ9e0h5S0uHNbOwGiOBw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+    />
+  </a>
+
+  <!-- GitHub Followers -->
+  <a href="https://github.com/codycarter1763?tab=followers">
+    <img 
+      alt="GitHub followers" 
+      title="Follow me on GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/followers/codycarter1763?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&logoColor=white&label=Follow"
+    />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="www.linkedin.com/in/cody-carter-a8a747293">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
+
+---
 ## 🔧 What I Work On
 
-![CCSDS](https://img.shields.io/badge/CCSDS-Space%20Packets-purple)
-![SPI](https://img.shields.io/badge/SPI-Protocol-lightgrey)
-![I2C](https://img.shields.io/badge/I2C-Protocol-lightgrey)
-![UART](https://img.shields.io/badge/UART-Protocol-lightgrey)
-![CAN](https://img.shields.io/badge/CAN-Bus-lightgrey)
-
-![Analog Design](https://img.shields.io/badge/Analog-Design-orange)
-![Mixed Signal](https://img.shields.io/badge/Mixed--Signal-Design-orange)
-![Audio Electronics](https://img.shields.io/badge/Audio-Electronics-orange)
-![Signal Processing](https://img.shields.io/badge/Signal-Processing-orange)
-
-![Linux](https://img.shields.io/badge/Linux-Embedded-black?logo=linux)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-Platform-red?logo=raspberrypi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-Platform-00979D?logo=arduino&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Tooling-blue?logo=python&logoColor=white)
-
-- Embedded firmware for **ESP32, STM32, Arduino**, and Linux-based systems  
-- **Low-level C / C++** for resource-constrained environments  
-- Hardware bring-up and debugging (datasheets, logic analyzers, oscilloscopes)  
-- **Communication protocols**: CCSDS Space Packet Protocol, SPI, I2C, UART, CAN  
-- **Audio electronics**, signal processing, and amplifier design  
-- Analog, digital, and **mixed-signal circuit design**  
-- Python tooling for analysis, testing, and automation  
-- Raspberry Pi and Linux-based embedded platforms  
-- PLC systems and industrial-style control logic  
-
-I’m continuously learning how to design **robust, scalable embedded systems** and how to think about problems at the system architecture level rather than just individual components.
-
----
 
 ## 🚀 Favorite Projects
 
@@ -102,16 +100,6 @@ I’m continuously learning how to design **robust, scalable embedded systems** 
     </td>
   </tr>
 </table>
-
-
-## 🧠 How I Think
-
-- I like understanding **why** something works, not just that it works  
-- I enjoy reverse-engineering circuits and protocols  
-- I’m comfortable moving between schematics, firmware, and test equipment  
-- I value clean, readable code *and* clean, understandable hardware  
-
----
 
 ## 📫 Get in Touch
 
