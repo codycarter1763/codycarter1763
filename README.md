@@ -46,25 +46,60 @@ I’m continuously learning how to design **robust, scalable embedded systems** 
 
 ## 🚀 Selected Projects
 
-### 🛰️ CCSDS Space Packet Protocol on ESP32
-Implementation of the CCSDS Space Packet Protocol for embedded systems, including packet construction, sequencing, CRC handling, and transport over UART/UDP for ground-station-style communication.
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/codycarter1763/Nixie-Tube-Clock">
+        <img src="https://github.com/user-attachments/assets/1d5745ea-2e5c-4783-b51c-6b7e24844d45" width="420" />
+      </a>
+      <br />
+      <b>Nixie Tube Clock</b>
+    </td>
+    <td align="center">
+      <a href="https://github.com/codycarter1763/1978-Marshall-JMP-Plexi-2204">
+        <img src="https://github.com/user-attachments/assets/796ec33e-4d24-4525-a94b-33197810f62a" width="420" />
+      </a>
+      <br />
+      <b>Marshall JMP Plexi 2204</b>
+    </td>
+  </tr>
 
-### 🎸 1978 Marshall JMP Plexi 2204 — Feature & Analysis
-In-depth analysis of a classic tube amplifier, focusing on gain staging, tone shaping, and circuit-level design decisions.
+  <tr>
+    <td align="center">
+      <a href="https://github.com/codycarter1763/Arcade-Table-Restoration">
+        <img src="https://github.com/user-attachments/assets/8bf163d6-c494-48f8-82c2-8af24d7ceb3c" width="420" />
+      </a>
+      <br />
+      <b>Arcade Table Restoration</b>
+    </td>
+    <td align="center">
+      <a href="https://github.com/codycarter1763/Modified-Klon-Centaur-Pedal">
+        <img src="https://github.com/user-attachments/assets/20f22a20-4202-4e25-baa3-c42ed1a60125" width="420" />
+      </a>
+      <br />
+      <b>Klon Centaur Pedal</b>
+    </td>
+  </tr>
 
-### ⏱️ Nixie Tube Clock
-A high-voltage mixed-signal project combining microcontroller control, precise timing, and safe HV design to drive vintage Nixie tubes.
+  <tr>
+    <td align="center">
+      <a href="https://github.com/codycarter1763/ESP32-RC-Car">
+        <img src="https://github.com/user-attachments/assets/6951ceae-68d6-404f-8ec2-f7391fd4ea73" width="420" />
+      </a>
+      <br />
+      <b>ESP32 RC Car</b>
+    </td>
+    <td align="center">
+      <a href="https://github.com/codycarter1763/Modified-Klon-Centaur-Pedal">
+        <img src="https://github.com/user-attachments/assets/20f22a20-4202-4e25-baa3-c42ed1a60125" width="420" />
+      </a>
+      <br />
+      <b>Klon Centaur Pedal</b>
+    </td>
+  </tr>
+  
+</table>
 
-### 🕹️ Arcade Table Restoration
-Restoration and modernization of a classic arcade table, integrating electronics, control systems, and embedded logic.
-
-### 🎛️ Klon Centaur Guitar Pedal — Re-creation & Analysis
-Re-engineered and analyzed a legendary effects pedal, focusing on op-amp behavior, clipping characteristics, and frequency response.
-
-### 📐 Circuit Analysis Calculator
-A circuit analysis tool for solving AC/DC systems using matrix methods and complex numbers, with an emphasis on correctness and numerical stability.
-
----
 
 ## 🧠 How I Think
 
