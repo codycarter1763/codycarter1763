@@ -54,15 +54,15 @@ I’m continuously learning how to design **robust, scalable embedded systems** 
       </a>
       <br />
       <b>Nixie Tube Clock</b><br />
-<sup>High-voltage drive, timing, embedded control</sup>
+<sup>Handcrafted clock with embedded hardware and remote integration</sup>
     </td>
     <td align="center">
       <a href="https://github.com/codycarter1763/1978-Marshall-JMP-Plexi-2204">
         <img src="https://github.com/user-attachments/assets/796ec33e-4d24-4525-a94b-33197810f62a" width="420" />
       </a>
       <br />
-      <b>Marshall JMP Plexi 2204</b><br />
-<sup>Tube amplifier analysis & restoration</sup>
+      <b>Marshall JMP Plexi 2204 Guitar Amplifier</b><br />
+<sup>Handwired Marshall tube amplifier with circuit modifications and handcrafted enclosure</sup>
     </td>
   </tr>
 
@@ -73,7 +73,7 @@ I’m continuously learning how to design **robust, scalable embedded systems** 
       </a>
       <br />
       <b>Arcade Table Restoration</b><br />
-<sup>System-level repair & embedded integration</sup>
+<sup>Retrofitted arcade table featuring an embedded computer and modern lighting integration</sup>
     </td>
     <td align="center">
       <a href="https://github.com/codycarter1763/Modified-Klon-Centaur-Pedal">
@@ -81,7 +81,7 @@ I’m continuously learning how to design **robust, scalable embedded systems** 
       </a>
       <br />
       <b>Klon Centaur Pedal</b><br />
-<sup>Analog audio & mixed-signal design</sup>
+<sup>Analog audio pedal with circuit-level analysis and targeted modifications</sup>
     </td>
   </tr>
 
@@ -92,7 +92,7 @@ I’m continuously learning how to design **robust, scalable embedded systems** 
       </a>
       <br />
       <b>ESP32 RC Car</b><br />
-<sup>Real-time control, wireless embedded systems</sup>
+<sup>Custom 3D-printed chassis with embedded firmware for wireless control and real-time motor handling</sup>
     </td>
     <td align="center">
       <a href="https://github.com/Cody-and-Rohan-s-Projects/Circuit-Analysis-Calculator">
@@ -100,7 +100,7 @@ I’m continuously learning how to design **robust, scalable embedded systems** 
       </a>
       <br />
       <b>Circuit Analysis Calculator</b><br />
-<sup>Nodal analysis, matrix solving, Python tooling</sup>
+<sup>Cross-platform engineering tool for solving nodal and mesh analysis via a graphical interface</sup>
     </td>
   </tr>
 </table>
