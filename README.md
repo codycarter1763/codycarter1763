@@ -53,14 +53,16 @@ I’m continuously learning how to design **robust, scalable embedded systems** 
         <img src="https://github.com/user-attachments/assets/1d5745ea-2e5c-4783-b51c-6b7e24844d45" width="420" />
       </a>
       <br />
-      <b>Nixie Tube Clock</b>
+      <b>Nixie Tube Clock</b><br />
+<sup>High-voltage drive, timing, embedded control</sup>
     </td>
     <td align="center">
       <a href="https://github.com/codycarter1763/1978-Marshall-JMP-Plexi-2204">
         <img src="https://github.com/user-attachments/assets/796ec33e-4d24-4525-a94b-33197810f62a" width="420" />
       </a>
       <br />
-      <b>Marshall JMP Plexi 2204</b>
+      <b>Marshall JMP Plexi 2204</b><br />
+<sup>Tube amplifier analysis & restoration</sup>
     </td>
   </tr>
 
@@ -70,14 +72,16 @@ I’m continuously learning how to design **robust, scalable embedded systems** 
         <img src="https://github.com/user-attachments/assets/8bf163d6-c494-48f8-82c2-8af24d7ceb3c" width="420" />
       </a>
       <br />
-      <b>Arcade Table Restoration</b>
+      <b>Arcade Table Restoration</b><br />
+<sup>System-level repair & embedded integration</sup>
     </td>
     <td align="center">
       <a href="https://github.com/codycarter1763/Modified-Klon-Centaur-Pedal">
         <img src="https://github.com/user-attachments/assets/20f22a20-4202-4e25-baa3-c42ed1a60125" width="420" />
       </a>
       <br />
-      <b>Klon Centaur Pedal</b>
+      <b>Klon Centaur Pedal</b><br />
+<sup>Analog audio & mixed-signal design</sup>
     </td>
   </tr>
 
@@ -87,17 +91,18 @@ I’m continuously learning how to design **robust, scalable embedded systems** 
         <img src="https://github.com/user-attachments/assets/6951ceae-68d6-404f-8ec2-f7391fd4ea73" width="420" />
       </a>
       <br />
-      <b>ESP32 RC Car</b>
+      <b>ESP32 RC Car</b><br />
+<sup>Real-time control, wireless embedded systems</sup>
     </td>
     <td align="center">
-      <a href="https://github.com/codycarter1763/Modified-Klon-Centaur-Pedal">
-        <img src="https://github.com/user-attachments/assets/20f22a20-4202-4e25-baa3-c42ed1a60125" width="420" />
+      <a href="https://github.com/Cody-and-Rohan-s-Projects/Circuit-Analysis-Calculator">
+        <img src="https://github.com/user-attachments/assets/0cca88b3-94ac-4385-8af3-7af431b2fdd3" width="420" />
       </a>
       <br />
-      <b>Klon Centaur Pedal</b>
+      <b>Circuit Analysis Calculator</b><br />
+<sup>Nodal analysis, matrix solving, Python tooling</sup>
     </td>
   </tr>
-  
 </table>
 
 
