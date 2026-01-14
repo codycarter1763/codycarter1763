@@ -92,7 +92,7 @@ I’m continuously learning how to design **robust, scalable embedded systems** 
       </a>
       <br />
       <b>ESP32 RC Car</b><br />
-<sup>Custom 3D-printed chassis with embedded firmware for wireless control and real-time motor handling</sup>
+<sup>Custom 3D-printed with embedded firmware for wireless control and real-time motor handling</sup>
     </td>
     <td align="center">
       <a href="https://github.com/Cody-and-Rohan-s-Projects/Circuit-Analysis-Calculator">
