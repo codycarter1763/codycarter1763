@@ -30,7 +30,7 @@ Whether it’s school or personal projects, I’m driven by the desire to create
   </a>
 
   <!-- LinkedIn -->
-  <a href="www.linkedin.com/in/cody-carter-a8a747293">
+  <a href="https://www.linkedin.com/in/cody-carter-a8a747293/">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logoSource=feather&logo=linkedin&logoColor=white">
   </a>
 </p>
