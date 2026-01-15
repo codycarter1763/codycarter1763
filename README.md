@@ -9,7 +9,6 @@ Outside of school and work, I combine my interest in music and engineering by de
 Whether it’s school or personal projects, I’m driven by the desire to create technology that makes a difference and improve my skills. If you’re interested in collaborating or discussing anything further, lets connect to talk about it.
 
 
-
 <p align="left">
   <!-- YouTube Subscribe -->
   <a href="https://www.youtube.com/channel/UCh4SQ9e0h5S0uHNbOwGiOBw?sub_confirmation=1">
