@@ -34,7 +34,9 @@ Whether it’s school or personal projects, I’m driven by the desire to create
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logoSource=feather&logo=linkedin&logoColor=white">
   </a>
 </p>
+
 ---
+
 ## 🚀 Favorite Projects
 
 <table>
