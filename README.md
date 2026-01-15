@@ -37,7 +37,24 @@ Whether it’s school or personal projects, I’m driven by the desire to create
 
 
 ---
+## 🛠 Technical Skills
 
+**Embedded Systems**
+- C / C++, ARM Cortex-M, ESP32, STM32
+- Bare-metal firmware, peripheral drivers, register-level programming
+- SPI, I²C, UART, CAN, GPIO, PWM
+
+**Hardware & Design**
+- PCB design & bring-up, schematic capture
+- Mixed-signal circuits, analog audio design
+- Oscilloscope, logic analyzer, debugging & validation
+
+**Software & Tools**
+- Git, VS Code, PlatformIO, STM32CubeIDE
+- Python (engineering tools & automation)
+- MATLAB / SPICE (simulation & analysis)
+
+---
 ## 🚀 Favorite Projects
 
 <table>
