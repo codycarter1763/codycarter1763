@@ -87,7 +87,7 @@ Whether it’s school or personal projects, I’m driven by the desire to create
 <sup>Custom 3D-printed with embedded firmware for wireless control and real-time motor handling</sup>
     </td>
     <td align="center">
-      <a href="https://github.com/Cody-and-Rohan-s-Projects/Circuit-Analysis-Calculator">
+      <a href="https://github.com/codycarter1763/CCSDS-Space-Packet-Protocol-">
         <img src="https://github.com/user-attachments/assets/0cca88b3-94ac-4385-8af3-7af431b2fdd3" width="420" />
       </a>
       <br />
