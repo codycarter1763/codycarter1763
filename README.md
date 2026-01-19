@@ -88,11 +88,11 @@ Whether it’s school or personal projects, I’m driven by the desire to create
     </td>
     <td align="center">
       <a href="https://github.com/codycarter1763/CCSDS-Space-Packet-Protocol-">
-        <img src="https://github.com/user-attachments/assets/0cca88b3-94ac-4385-8af3-7af431b2fdd3" width="420" />
+        <img src="https://github.com/user-attachments/assets/ea7a9c17-3e1a-4e09-bd56-f2d6e04dfd7d" width="420" />
       </a>
       <br />
-      <b>Circuit Analysis Calculator</b><br />
-<sup>Cross-platform engineering tool for solving nodal and mesh analysis via a graphical interface</sup>
+      <b>CCSDS Space Packet Protocol Implementation</b><br />
+<sup> Implements CCSDS Space Packet Protocol on STM32, showcasing space-grade data handling.</sup>
     </td>
   </tr>
 </table>
