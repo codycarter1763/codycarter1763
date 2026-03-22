@@ -86,19 +86,16 @@ Whether it’s school or personal projects, I’m driven by the desire to create
       <b>ESP32 RC Car</b><br />
       <sup>Custom 3D-printed with embedded firmware for wireless control and real-time motor handling</sup>
     </td>
-
-    <tr>
-      <td align="center">
-        <a href="https://github.com/codycarter1763/NASA-Trick-BLDC-Simulation-CCSDS-Telemetry">
-          <img src="https://github.com/user-attachments/assets/19360172-54b8-44dc-946c-9bfdf6046497" width="420" />
-        </a>
-        <br />
-        <b>NASA Trick BLDC Simulation With CCSDS Telemetry</b><br />
-      <sup>Short one-line description of what it does and why it’s cool</sup>
+    <td align="center">
+      <a href="https://github.com/codycarter1763/NASA-Trick-BLDC-Simulation-CCSDS-Telemetry">
+        <img src="https://github.com/user-attachments/assets/19360172-54b8-44dc-946c-9bfdf6046497" width="420" />
+      </a>
+      <br />
+      <b>NASA Trick BLDC Simulation With CCSDS Telemetry</b><br />
+      <sup>Hardware-in-the-loop spacecraft simulation using CCSDS telemetry and real-time visualization</sup>
     </td>
   </tr>
 </table>
-
 
 
 
