@@ -1,4 +1,4 @@
-# Hi, I’m Cody 👋
+<img width="3024" height="4032" alt="image" src="https://github.com/user-attachments/assets/9c4f8a0b-6398-4743-b651-e3b192212a10" /># Hi, I’m Cody 👋
 
 I’m a **Computer Engineering student at Louisiana State University** with a strong focus on embedded systems, microprocessors, and hardware logic design.
 
@@ -46,7 +46,7 @@ Whether it’s school or personal projects, I’m driven by the desire to create
       </a>
       <br />
       <b>Nixie Tube Clock</b><br />
-<sup>Handcrafted clock with embedded hardware and remote integration</sup>
+      <sup>Handcrafted clock with embedded hardware and remote integration</sup>
     </td>
     <td align="center">
       <a href="https://github.com/codycarter1763/1978-Marshall-JMP-Plexi-2204">
@@ -54,7 +54,7 @@ Whether it’s school or personal projects, I’m driven by the desire to create
       </a>
       <br />
       <b>Marshall JMP Plexi 2204 Guitar Amplifier</b><br />
-<sup>Handwired Marshall tube amplifier with circuit modifications and handcrafted enclosure</sup>
+      <sup>Handwired Marshall tube amplifier with circuit modifications and handcrafted enclosure</sup>
     </td>
   </tr>
 
@@ -65,7 +65,7 @@ Whether it’s school or personal projects, I’m driven by the desire to create
       </a>
       <br />
       <b>Arcade Table Restoration</b><br />
-<sup>Retrofitted arcade table featuring an embedded computer and modern lighting integration</sup>
+      <sup>Retrofitted arcade table featuring an embedded computer and modern lighting integration</sup>
     </td>
     <td align="center">
       <a href="https://github.com/codycarter1763/Modified-Klon-Centaur-Pedal">
@@ -73,7 +73,7 @@ Whether it’s school or personal projects, I’m driven by the desire to create
       </a>
       <br />
       <b>Klon Centaur Pedal</b><br />
-<sup>Analog audio pedal with circuit-level analysis and targeted modifications</sup>
+      <sup>Analog audio pedal with circuit-level analysis and targeted modifications</sup>
     </td>
   </tr>
 
@@ -84,18 +84,21 @@ Whether it’s school or personal projects, I’m driven by the desire to create
       </a>
       <br />
       <b>ESP32 RC Car</b><br />
-<sup>Custom 3D-printed with embedded firmware for wireless control and real-time motor handling</sup>
+      <sup>Custom 3D-printed with embedded firmware for wireless control and real-time motor handling</sup>
     </td>
-    <td align="center">
-      <a href="https://github.com/codycarter1763/CCSDS-Space-Packet-Protocol-">
-        <img src="https://github.com/user-attachments/assets/ea7a9c17-3e1a-4e09-bd56-f2d6e04dfd7d" width="420" />
-      </a>
-      <br />
-      <b>CCSDS Space Packet Protocol Implementation</b><br />
-<sup> Implements CCSDS Space Packet Protocol on STM32, showcasing space-grade data handling.</sup>
+
+    <tr>
+      <td align="center">
+        <a href="https://github.com/codycarter1763/NASA-Trick-BLDC-Simulation-CCSDS-Telemetry">
+          <img src="https://github.com/user-attachments/assets/19360172-54b8-44dc-946c-9bfdf6046497" width="420" />
+        </a>
+        <br />
+        <b>NASA Trick BLDC Simulation With CCSDS Telemetry</b><br />
+      <sup>Short one-line description of what it does and why it’s cool</sup>
     </td>
   </tr>
 </table>
+
 
 
 
