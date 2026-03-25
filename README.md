@@ -1,4 +1,4 @@
-<img width="3024" height="4032" alt="image" src="https://github.com/user-attachments/assets/9c4f8a0b-6398-4743-b651-e3b192212a10" /># Hi, I’m Cody 👋
+# Hi, I’m Cody 👋
 
 I’m a **Computer Engineering student at Louisiana State University** with a strong focus on embedded systems, microprocessors, and hardware logic design.
 
