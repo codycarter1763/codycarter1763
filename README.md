@@ -1,6 +1,6 @@
 # Hi, I’m Cody 👋
 
-I’m a **Computer Engineering student at Louisiana State University** with a strong focus on embedded systems, microprocessors, and hardware logic design.
+I'm a **Computer Engineering graduate from Louisiana State University** passionate about embedded software, FPGA design, and low-level systems programming. My interests include flight software, robotics, computer architecture, and real-time embedded systems.
 
 I work primarily in C/C++ on ARM-based microcontrollers including STM32 and ESP32, developing firmware that interfaces with custom hardware, communication protocols, and mixed-signal circuits. My projects often involve PCB design, hardware simulation, validating behavior using test equipment, and custom fabrication.
 
