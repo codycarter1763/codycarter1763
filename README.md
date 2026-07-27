@@ -79,12 +79,12 @@ Whether it’s school or personal projects, I’m driven by the desire to create
 
   <tr>
     <td align="center">
-      <a href="https://github.com/codycarter1763/ESP32-RC-Car">
-        <img src="https://github.com/user-attachments/assets/6951ceae-68d6-404f-8ec2-f7391fd4ea73" width="420" />
+      <a href="https://github.com/codycarter1763/8-bit-computer">
+        <img src="https://github.com/user-attachments/assets/0f0a4d5e-8893-492d-9bd4-9d74882059ee" width="420" />
       </a>
       <br />
-      <b>ESP32 RC Car</b><br />
-      <sup>Custom 3D-printed with embedded firmware for wireless control and real-time motor handling</sup>
+      <b>8-Bit Computer</b><br />
+      <sup>Programmable SAP-1-inspired computer using discrete logic ICs and Verilog on an FPGA.</sup>
     </td>
     <td align="center">
       <a href="https://github.com/codycarter1763/NASA-Trick-BLDC-Simulation-CCSDS-Telemetry">
