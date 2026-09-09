@@ -23,25 +23,29 @@ interested in collaborating or discussing any of my projects, feel free to conne
 <p align="left">
   <!-- YouTube Subscribe -->
   <a href="https://www.youtube.com/@codycarter7146?sub_confirmation=1">
-    <img 
-      alt="YouTube subscribers" 
-      title="Subscribe to my YouTube channel" 
-      src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCh4SQ9e0h5S0uHNbOwGiOBw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+    <img
+      alt="YouTube Subscribe"
+      title="Subscribe to my YouTube channel"
+      src="https://img.shields.io/badge/YouTube-SUBSCRIBE-CE4630?style=for-the-badge&logo=youtube&logoColor=white"
     />
   </a>
 
   <!-- GitHub Followers -->
   <a href="https://github.com/codycarter1763?tab=followers">
-    <img 
-      alt="GitHub followers" 
-      title="Follow me on GitHub" 
+    <img
+      alt="GitHub followers"
+      title="Follow me on GitHub"
       src="https://custom-icon-badges.demolab.com/github/followers/codycarter1763?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&logoColor=white&label=Follow"
     />
   </a>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/cody-carter-a8a747293/">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logoSource=feather&logo=linkedin&logoColor=white">
+    <img
+      alt="LinkedIn"
+      title="Connect with me on LinkedIn"
+      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logoSource=feather&logo=linkedin&logoColor=white"
+    />
   </a>
 </p>
 
@@ -57,7 +61,7 @@ interested in collaborating or discussing any of my projects, feel free to conne
     </a>
     <br />
       <b>NASA Trick & JEOD & Unity Satellite Dynamics Simulation</b><br />
-      <sup>6-DOF spacecraft simulation using NASA Trick and JEOD with real-time orbital visualization</sup>
+      <sup>6-DOF spacecraft simulation with real-time orbital visualization</sup>
     </td>
     <td align="center">
       <a href="https://github.com/codycarter1763/NASA-Trick-BLDC-Simulation-CCSDS-Telemetry">
