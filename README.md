@@ -22,7 +22,7 @@ interested in collaborating or discussing any of my projects, feel free to conne
 
 <p align="left">
   <!-- YouTube Subscribe -->
-  <a href="https://youtube.com/@codycarter7146?si=kUJ0sJbPSvfETZzX?sub_confirmation=1">
+  <a href="https://www.youtube.com/@codycarter7146?sub_confirmation=1">
     <img 
       alt="YouTube subscribers" 
       title="Subscribe to my YouTube channel" 
