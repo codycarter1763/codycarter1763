@@ -56,7 +56,7 @@ interested in collaborating or discussing any of my projects, feel free to conne
       <img src="https://github.com/user-attachments/assets/0c2a91c7-be1a-4a54-873b-5ae9cf687d80" width="420" />
     </a>
     <br />
-      <b>Satellite-Sim</b><br />
+      <b>NASA Trick & JEOD & Unity Satellite Dynamics Simulation</b><br />
       <sup>6-DOF spacecraft simulation using NASA Trick and JEOD with real-time orbital visualization</sup>
     </td>
     <td align="center">
