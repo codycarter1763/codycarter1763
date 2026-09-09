@@ -1,13 +1,24 @@
 # Hi, I’m Cody 👋
 
-I'm a **Computer Engineering graduate from Louisiana State University** passionate about embedded software, FPGA design, and low-level systems programming. My interests include flight software, robotics, computer architecture, and real-time embedded systems.
+I'm a **Computer Engineering graduate from Louisiana State University** passionate about
+**embedded software, flight software, simulation, FPGA design, robotics, and real-time systems**.
 
-I work primarily in C/C++ on ARM-based microcontrollers including STM32 and ESP32, developing firmware that interfaces with custom hardware, communication protocols, and mixed-signal circuits. My projects often involve PCB design, hardware simulation, validating behavior using test equipment, and custom fabrication.
+I primarily work in **C/C++ and Python**, developing software for ARM-based microcontrollers,
+FPGAs, embedded Linux systems, and robotics platforms. My experience includes **STM32,
+ESP32, FPGA development, ROS 2, ros2_control, Core Flight System (cFS), and serial/network
+communication protocols**.
 
-Outside of school and work, I combine my interest in music and engineering by designing audio hardware and embedded systems from re-engineered analog guitar pedals and DSP-based effects to embedded control projects and automation experiments. I've also designed and constructed speaker systems using computer aided technology, CNC machining, and audio physics to craft systems with the highest fidelity audio and consistent quality. 
+Additionally, I develop simulations using **NASA Trick, JEOD, and GUNNS**. My current work
+incorporates **6-DOF spacecraft dynamics, CCSDS Space Packet Protocol telemetry, motor
+physics, and Unity interfaces** to aid in simulation development and visualization.
 
-Whether it’s school or personal projects, I’m driven by the desire to create technology that makes a difference and improve my skills. If you’re interested in collaborating or discussing anything further, lets connect to talk about it.
+Outside of work, I combine my interest in music and engineering by designing audio hardware
+and embedded systems, including **re-engineered analog guitar pedals, DSP-based effects,
+guitar amplifiers and modifications, and custom guitar builds**.
 
+Whether it's professional or personal projects, I'm driven by the desire to **build
+technology, understand how systems work, and continuously improve my skills**. If you're
+interested in collaborating or discussing any of my projects, feel free to connect!
 
 <p align="left">
   <!-- YouTube Subscribe -->
@@ -41,6 +52,25 @@ Whether it’s school or personal projects, I’m driven by the desire to create
 <table>
   <tr>
     <td align="center">
+    <a href="https://github.com/codycarter1763/Satellite-Sim">
+      <img src="https://github.com/user-attachments/assets/0c2a91c7-be1a-4a54-873b-5ae9cf687d80" width="420" />
+    </a>
+    <br />
+      <b>Satellite-Sim</b><br />
+      <sup>6-DOF spacecraft simulation using NASA Trick and JEOD with real-time orbital visualization</sup>
+    </td>
+    <td align="center">
+      <a href="https://github.com/codycarter1763/NASA-Trick-BLDC-Simulation-CCSDS-Telemetry">
+        <img src="https://github.com/user-attachments/assets/19360172-54b8-44dc-946c-9bfdf6046497" width="420" />
+      </a>
+      <br />
+      <b>NASA Trick BLDC Simulation With CCSDS Telemetry</b><br />
+      <sup>Hardware-in-the-loop spacecraft simulation using CCSDS telemetry and real-time visualization</sup>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
       <a href="https://github.com/codycarter1763/Nixie-Tube-Clock">
         <img src="https://github.com/user-attachments/assets/1d5745ea-2e5c-4783-b51c-6b7e24844d45" width="420" />
       </a>
@@ -68,17 +98,6 @@ Whether it’s school or personal projects, I’m driven by the desire to create
       <sup>Retrofitted arcade table featuring an embedded computer and modern lighting integration</sup>
     </td>
     <td align="center">
-      <a href="https://github.com/codycarter1763/Modified-Klon-Centaur-Pedal">
-        <img src="https://github.com/user-attachments/assets/20f22a20-4202-4e25-baa3-c42ed1a60125" width="420" />
-      </a>
-      <br />
-      <b>Klon Centaur Pedal</b><br />
-      <sup>Analog audio pedal with circuit-level analysis and targeted modifications</sup>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
       <a href="https://github.com/codycarter1763/8-bit-computer">
         <img src="https://github.com/user-attachments/assets/0f0a4d5e-8893-492d-9bd4-9d74882059ee" width="420" />
       </a>
@@ -86,16 +105,5 @@ Whether it’s school or personal projects, I’m driven by the desire to create
       <b>8-Bit Computer</b><br />
       <sup>Programmable SAP-1-inspired computer using discrete logic ICs and Verilog on an FPGA.</sup>
     </td>
-    <td align="center">
-      <a href="https://github.com/codycarter1763/NASA-Trick-BLDC-Simulation-CCSDS-Telemetry">
-        <img src="https://github.com/user-attachments/assets/19360172-54b8-44dc-946c-9bfdf6046497" width="420" />
-      </a>
-      <br />
-      <b>NASA Trick BLDC Simulation With CCSDS Telemetry</b><br />
-      <sup>Hardware-in-the-loop spacecraft simulation using CCSDS telemetry and real-time visualization</sup>
-    </td>
   </tr>
 </table>
-
-
-
