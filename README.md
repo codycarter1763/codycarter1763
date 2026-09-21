@@ -8,7 +8,7 @@ FPGAs, embedded Linux systems, and robotics platforms. My experience includes **
 ESP32, FPGA development, ROS 2, ros2_control, Core Flight System (cFS), and serial/network
 communication protocols**.
 
-Additionally, I develop simulations using **NASA Trick, JEOD, and GUNNS**. My current work
+Additionally, I develop simulations using **NASA Trick** and **JEOD**. My current work
 incorporates **6-DOF spacecraft dynamics, CCSDS Space Packet Protocol telemetry, motor
 physics, and Unity interfaces** to aid in simulation development and visualization.
 
