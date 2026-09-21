@@ -75,6 +75,25 @@ interested in collaborating or discussing any of my projects, feel free to conne
 
   <tr>
     <td align="center">
+      <a href="https://github.com/codycarter1763/cFS-ESP32-Telemetry">
+        <img src="https://github.com/user-attachments/assets/8d460c6f-1e6e-4392-9c7e-e8c40d517790" width="420" />
+      </a>
+      <br />
+      <b>NASA cFS & ESP32 Telemetry Bridge</b><br />
+      <sup>CCSDS-based flight software integration between NASA's Core Flight System and an ESP32 sensor node</sup>
+    </td>
+    <td align="center">
+      <a href="https://github.com/codycarter1763/8-bit-computer">
+        <img src="https://github.com/user-attachments/assets/0f0a4d5e-8893-492d-9bd4-9d74882059ee" width="420" />
+      </a>
+      <br />
+      <b>8-Bit Computer</b><br />
+      <sup>Programmable SAP-1-inspired computer using discrete logic ICs and Verilog on an FPGA.</sup>
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center">
       <a href="https://github.com/codycarter1763/Nixie-Tube-Clock">
         <img src="https://github.com/user-attachments/assets/1d5745ea-2e5c-4783-b51c-6b7e24844d45" width="420" />
       </a>
@@ -89,25 +108,6 @@ interested in collaborating or discussing any of my projects, feel free to conne
       <br />
       <b>Marshall JMP Plexi 2204 Guitar Amplifier</b><br />
       <sup>Handwired Marshall tube amplifier with circuit modifications and handcrafted enclosure</sup>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <a href="https://github.com/codycarter1763/Arcade-Table-Restoration">
-        <img src="https://github.com/user-attachments/assets/8bf163d6-c494-48f8-82c2-8af24d7ceb3c" width="420" />
-      </a>
-      <br />
-      <b>Arcade Table Restoration</b><br />
-      <sup>Retrofitted arcade table featuring an embedded computer and modern lighting integration</sup>
-    </td>
-    <td align="center">
-      <a href="https://github.com/codycarter1763/8-bit-computer">
-        <img src="https://github.com/user-attachments/assets/0f0a4d5e-8893-492d-9bd4-9d74882059ee" width="420" />
-      </a>
-      <br />
-      <b>8-Bit Computer</b><br />
-      <sup>Programmable SAP-1-inspired computer using discrete logic ICs and Verilog on an FPGA.</sup>
     </td>
   </tr>
 </table>
