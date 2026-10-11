@@ -75,12 +75,12 @@ interested in collaborating or discussing any of my projects, feel free to conne
 
   <tr>
     <td align="center">
-      <a href="https://github.com/codycarter1763/cFS-ESP32-Telemetry">
-        <img src="https://github.com/user-attachments/assets/8d460c6f-1e6e-4392-9c7e-e8c40d517790" width="420" />
+      <a href="https://github.com/codycarter1763/cFS-PX4-VehicleSim">
+        <img src="https://github.com/user-attachments/assets/896883ed-7315-4d83-b56c-a465332b1428" width="420" />
       </a>
       <br />
-      <b>NASA cFS & ESP32 Telemetry Bridge</b><br />
-      <sup>CCSDS-based flight software integration between NASA's Core Flight System and an ESP32 sensor node</sup>
+      <b>NASA cFS & PX4 Autopilot Flight Software System</b><br />
+      <sup>NASA's Core Flight System (cFS) with PX4 Autopilot in a simulated quadcopter environment using Gazebo and QGroundControl.</sup>
     </td>
     <td align="center">
       <a href="https://github.com/codycarter1763/8-bit-computer">
