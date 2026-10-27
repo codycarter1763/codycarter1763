@@ -60,16 +60,16 @@ interested in collaborating or discussing any of my projects, feel free to conne
       <img src="https://github.com/user-attachments/assets/0c2a91c7-be1a-4a54-873b-5ae9cf687d80" width="420" />
     </a>
     <br />
-      <b>NASA Trick & JEOD & Unity Satellite Dynamics Simulation</b><br />
-      <sup>6-DOF spacecraft simulation with real-time orbital visualization</sup>
+      <b>6-DOF Satellite Dynamics Simulation</b><br />
+      <sup>6-DOF spacecraft simulation with real-time orbital visualization using NASA Trick & JEOD & Unity</sup>
     </td>
     <td align="center">
       <a href="https://github.com/codycarter1763/NASA-Trick-BLDC-Simulation-CCSDS-Telemetry">
         <img src="https://github.com/user-attachments/assets/19360172-54b8-44dc-946c-9bfdf6046497" width="420" />
       </a>
       <br />
-      <b>NASA Trick BLDC Simulation With CCSDS Telemetry</b><br />
-      <sup>Hardware-in-the-loop spacecraft simulation using CCSDS telemetry and real-time visualization</sup>
+      <b>Brushless DC Motor Simulation and Model</b><br />
+      <sup>Hardware-in-the-loop simulation using CCSDS telemetry and real-time visualization using NASA Trick</sup>
     </td>
   </tr>
 
@@ -79,7 +79,7 @@ interested in collaborating or discussing any of my projects, feel free to conne
         <img src="https://github.com/user-attachments/assets/896883ed-7315-4d83-b56c-a465332b1428" width="420" />
       </a>
       <br />
-      <b>NASA cFS & PX4 Autopilot Flight Software System</b><br />
+      <b>Autonomous Quadcopter Flight Software Integration and Simulation</b><br />
       <sup>NASA's Core Flight System (cFS) with PX4 Autopilot in a simulated quadcopter environment using Gazebo and QGroundControl.</sup>
     </td>
     <td align="center">
