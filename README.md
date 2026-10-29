@@ -56,10 +56,29 @@ interested in collaborating or discussing any of my projects, feel free to conne
 <table>
   <tr>
     <td align="center">
-    <a href="https://github.com/codycarter1763/Satellite-Sim">
-      <img src="https://github.com/user-attachments/assets/0c2a91c7-be1a-4a54-873b-5ae9cf687d80" width="420" />
-    </a>
-    <br />
+      <a href="https://github.com/codycarter1763/cFS-ESP32-Telemetry">
+        <img src="https://github.com/user-attachments/assets/8d460c6f-1e6e-4392-9c7e-e8c40d517790" width="420" />
+      </a>
+      <br />
+      <b>cFS & ESP32 Sensor Telemetry Bridge</b><br />
+      <sup>NASA's Core Flight System (cFS) receiving CCSDS telemetry from a FreeRTOS ESP32 sensor node over serial, with limit checking, health monitoring, stored commands, and data storage.</sup>
+    </td>
+    <td align="center">
+      <a href="https://github.com/codycarter1763/cFS-PX4-VehicleSim">
+        <img src="https://github.com/user-attachments/assets/896883ed-7315-4d83-b56c-a465332b1428" width="420" />
+      </a>
+      <br />
+      <b>Autonomous Quadcopter Flight Software Integration and Simulation</b><br />
+      <sup>NASA's Core Flight System (cFS) with PX4 Autopilot in a simulated quadcopter environment using Gazebo and QGroundControl.</sup>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://github.com/codycarter1763/Satellite-Sim">
+        <img src="https://github.com/user-attachments/assets/0c2a91c7-be1a-4a54-873b-5ae9cf687d80" width="420" />
+      </a>
+      <br />
       <b>6-DOF Satellite Dynamics Simulation</b><br />
       <sup>6-DOF spacecraft simulation with real-time orbital visualization using NASA Trick & JEOD & Unity</sup>
     </td>
@@ -75,14 +94,6 @@ interested in collaborating or discussing any of my projects, feel free to conne
 
   <tr>
     <td align="center">
-      <a href="https://github.com/codycarter1763/cFS-PX4-VehicleSim">
-        <img src="https://github.com/user-attachments/assets/896883ed-7315-4d83-b56c-a465332b1428" width="420" />
-      </a>
-      <br />
-      <b>Autonomous Quadcopter Flight Software Integration and Simulation</b><br />
-      <sup>NASA's Core Flight System (cFS) with PX4 Autopilot in a simulated quadcopter environment using Gazebo and QGroundControl.</sup>
-    </td>
-    <td align="center">
       <a href="https://github.com/codycarter1763/8-bit-computer">
         <img src="https://github.com/user-attachments/assets/0f0a4d5e-8893-492d-9bd4-9d74882059ee" width="420" />
       </a>
@@ -90,9 +101,6 @@ interested in collaborating or discussing any of my projects, feel free to conne
       <b>8-Bit Computer</b><br />
       <sup>Programmable SAP-1-inspired computer using discrete logic ICs and Verilog on an FPGA.</sup>
     </td>
-  </tr>
-  
-  <tr>
     <td align="center">
       <a href="https://github.com/codycarter1763/Nixie-Tube-Clock">
         <img src="https://github.com/user-attachments/assets/1d5745ea-2e5c-4783-b51c-6b7e24844d45" width="420" />
@@ -100,14 +108,6 @@ interested in collaborating or discussing any of my projects, feel free to conne
       <br />
       <b>Nixie Tube Clock</b><br />
       <sup>Handcrafted clock with embedded hardware and remote integration</sup>
-    </td>
-    <td align="center">
-      <a href="https://github.com/codycarter1763/1978-Marshall-JMP-Plexi-2204">
-        <img src="https://github.com/user-attachments/assets/796ec33e-4d24-4525-a94b-33197810f62a" width="420" />
-      </a>
-      <br />
-      <b>Marshall JMP Plexi 2204 Guitar Amplifier</b><br />
-      <sup>Handwired Marshall tube amplifier with circuit modifications and handcrafted enclosure</sup>
     </td>
   </tr>
 </table>
